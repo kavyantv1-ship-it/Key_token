@@ -1,26 +1,5 @@
 {
-  "key": "MY_SECRET_KEY_2026",
+  "key": "SAMEER",
   "admins": ["kavyantv1-ship-it"],
-  "users": [],
-  "@hacker420official": {
-    "user": "HACKER420_PUBLIC",
-    "expiry": "2026-07-27",
-    "max_devices": 50,
-    "devices": [
-      "032b5f00409a50b3",
-      "15968c9ce6303457",
-      "58007dd499295847",
-      "5452b67f91f32100",
-      "6ca087879faa07dc",
-      "9eb767e7b67e0c81",
-      "9957ce07297a6420",
-      "0fc3d4fb7a2d56bf",
-      "8599743d91e442b0",
-      "c92a562b1ff21e42",
-      "34e94519e065b771",
-      "a92aafa65ced234c",
-      "c200bd854ad2117c",
-      "ed6f06517d66ee20"
-    ]
-  }
+  "users": []
 }
