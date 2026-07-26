@@ -1,5 +1,9 @@
 {
-  "key": "SAMEER",
-  "admins": ["kavyantv1-ship-it"],
-  "users": []
+  "SAMEER": {
+    "key": "SAMEER",
+    "status": "active",
+    "expiry": "2027-12-31",
+    "max_devices": 10,
+    "devices": []
+  }
 }
