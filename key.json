@@ -1,7 +1,10 @@
 {
+  "key": "MY_SECRET_KEY_2026",
+  "admins": ["kavyantv1-ship-it"],
+  "users": [],
   "@hacker420official": {
     "user": "HACKER420_PUBLIC",
-    "expiry": "2026-08-27",
+    "expiry": "2026-07-27",
     "max_devices": 50,
     "devices": [
       "032b5f00409a50b3",
@@ -18,45 +21,6 @@
       "a92aafa65ced234c",
       "c200bd854ad2117c",
       "ed6f06517d66ee20"
-    ],
-    "status": "active"
-  },
-  "H420-8FK2-AB91-XYZ7": {
-    "user": "Ali",
-    "expiry": "2026-12-31",
-    "max_devices": 2,
-    "devices": [
-      "device_hash_1"
-    ],
-    "status": "inactive"
-  },
-  "#HACKER420": {
-    "user": "Premium_User",
-    "expiry": "2027-01-01",
-    "max_devices": 1000,
-    "devices": [
-      "2b676d4c7fa4542b",
-      "6bcd500d21c45716",
-      "dbb1c152d5654ac2",
-      "9253d7d61a21e151",
-      "a4915099b6cacc0e",
-      "8b326791d33b49c6",
-      "8bf203c960f3294f",
-      "7c8a13661d83f9ba",
-      "4e91c7732ab5caba",
-      "02d3bafd768b36f6",
-      "c856519b262e582d",
-      "27bbcc36e8bb82d8"
-    ],
-    "status": "active"
-  },
-  "DEMO-2026": {
-    "user": "Demo_User",
-    "expiry": "2026-7-25",
-    "max_devices": 1,
-    "devices": [
-      "6c85f588e0104142"
-    ],
-    "status": "active"
+    ]
   }
 }
