@@ -2,8 +2,148 @@
   "SAMEER": {
     "key": "SAMEER",
     "status": "active",
-    "expiry": "2027-12-31",
+    "expiry": "2026-07-28",
+    "max_devices": 50,
+    "devices": []
+  },
+  "KEY_001": {
+    "key": "KEY_001",
+    "status": "active",
+    "expiry": "2026-07-29",
+    "max_devices": 1,
+    "devices": []
+  },
+  "KEY_002": {
+    "key": "KEY_002",
+    "status": "active",
+    "expiry": "2026-07-30",
+    "max_devices": 2,
+    "devices": []
+  },
+  "KEY_003": {
+    "key": "KEY_003",
+    "status": "active",
+    "expiry": "2026-07-31",
+    "max_devices": 3,
+    "devices": []
+  },
+  "KEY_004": {
+    "key": "KEY_004",
+    "status": "active",
+    "expiry": "2026-08-01",
+    "max_devices": 4,
+    "devices": []
+  },
+  "KEY_005": {
+    "key": "KEY_005",
+    "status": "active",
+    "expiry": "2026-08-02",
+    "max_devices": 5,
+    "devices": []
+  },
+  "KEY_006": {
+    "key": "KEY_006",
+    "status": "active",
+    "expiry": "2026-08-03",
+    "max_devices": 6,
+    "devices": []
+  },
+  "KEY_007": {
+    "key": "KEY_007",
+    "status": "active",
+    "expiry": "2026-08-04",
+    "max_devices": 7,
+    "devices": []
+  },
+  "KEY_008": {
+    "key": "KEY_008",
+    "status": "active",
+    "expiry": "2026-08-05",
+    "max_devices": 8,
+    "devices": []
+  },
+  "KEY_009": {
+    "key": "KEY_009",
+    "status": "active",
+    "expiry": "2026-08-06",
+    "max_devices": 9,
+    "devices": []
+  },
+  "KEY_010": {
+    "key": "KEY_010",
+    "status": "active",
+    "expiry": "2026-08-07",
     "max_devices": 10,
+    "devices": []
+  },
+  "KEY_011": {
+    "key": "KEY_011",
+    "status": "active",
+    "expiry": "2026-08-08",
+    "max_devices": 11,
+    "devices": []
+  },
+  "KEY_012": {
+    "key": "KEY_012",
+    "status": "active",
+    "expiry": "2026-08-09",
+    "max_devices": 12,
+    "devices": []
+  },
+  "KEY_013": {
+    "key": "KEY_013",
+    "status": "active",
+    "expiry": "2026-08-10",
+    "max_devices": 13,
+    "devices": []
+  },
+  "KEY_014": {
+    "key": "KEY_014",
+    "status": "active",
+    "expiry": "2026-08-11",
+    "max_devices": 14,
+    "devices": []
+  },
+  "KEY_015": {
+    "key": "KEY_015",
+    "status": "active",
+    "expiry": "2026-08-12",
+    "max_devices": 15,
+    "devices": []
+  },
+  "KEY_016": {
+    "key": "KEY_016",
+    "status": "active",
+    "expiry": "2026-08-13",
+    "max_devices": 16,
+    "devices": []
+  },
+  "KEY_017": {
+    "key": "KEY_017",
+    "status": "active",
+    "expiry": "2026-08-14",
+    "max_devices": 17,
+    "devices": []
+  },
+  "KEY_018": {
+    "key": "KEY_018",
+    "status": "active",
+    "expiry": "2026-08-15",
+    "max_devices": 18,
+    "devices": []
+  },
+  "KEY_019": {
+    "key": "KEY_019",
+    "status": "active",
+    "expiry": "2026-08-16",
+    "max_devices": 19,
+    "devices": []
+  },
+  "KEY_020": {
+    "key": "KEY_020",
+    "status": "active",
+    "expiry": "2026-08-17",
+    "max_devices": 20,
     "devices": []
   }
 }
