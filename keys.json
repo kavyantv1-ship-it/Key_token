@@ -1,0 +1,35 @@
+{
+    "GRW7-XD9K4-2M5P8-QR3F6": {
+        "active": true,
+        "device_id": "UNBOUND",
+        "expiry": "2026-12-31",
+        "daily_limit": 999,
+        "used_today": 0,
+        "last_used": "",
+        "owner": "SAMEER",
+        "created": "2026-01-01",
+        "notes": "Main developer key - Unlimited access"
+    },
+    "LUA8-MASTER-KEY-2026": {
+        "active": true,
+        "device_id": "UNBOUND",
+        "expiry": "2026-12-31",
+        "daily_limit": 999,
+        "used_today": 0,
+        "last_used": "",
+        "owner": "VIP_USER",
+        "created": "2026-01-01",
+        "notes": "VIP access key"
+    },
+    "TEST9-ABCDE-FGHIJ-KLMNO": {
+        "active": false,
+        "device_id": "UNBOUND",
+        "expiry": "2026-01-15",
+        "daily_limit": 5,
+        "used_today": 0,
+        "last_used": "",
+        "owner": "TEST_USER",
+        "created": "2026-01-01",
+        "notes": "TEST KEY - Disabled"
+    }
+}
