@@ -3,7 +3,7 @@
     "key": "SAMEER",
     "status": "active",
     "expiry": "2026-07-28",
-    "max_devices": 50,
+    "max_devices": 1,
     "devices": []
   },
   "KEY_001": {
