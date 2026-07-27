@@ -1,8 +1,8 @@
 {
   "@hacker420official": {
     "user": "HACKER420_PUBLIC",
-    "expiry": "2026-07-26",
-    "max_devices": 50,
+    "expiry": "2026-07-29",
+    "max_devices": 1,
     "devices": [
       "032b5f00409a50b3",
       "15968c9ce6303457",
